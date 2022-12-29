@@ -1,0 +1,39 @@
+{
+  "$id": "1",
+  "API": {
+    "$id": "2",
+    "Dev": "2.5.43",
+    "Production": "2.5.43",
+    "QA": "2.5.43",
+    "Staging": "2.5.43",
+    "UAT": "2.5.43",
+    "xcodeappversion": null
+  },
+  "AndroidMobile": {
+    "$id": "3",
+    "Dev": "2.6.1",
+    "Production": "2.6.1",
+    "QA": "2.6.1",
+    "Staging": "2.6.1",
+    "UAT": "2.6.1",
+    "xcodeappversion": null
+  },
+  "IOSMobile": {
+    "$id": "4",
+    "Dev": "2.6.3",
+    "Production": "2.6.3",
+    "QA": "2.6.3",
+    "Staging": "2.6.3",
+    "UAT": "2.6.3",
+    "xcodeappversion": "3.6.3"
+  },
+  "Portal": {
+    "$id": "5",
+    "Dev": "2.6.10",
+    "Production": "2.6.10",
+    "QA": "2.6.10",
+    "Staging": "2.6.10",
+    "UAT": "2.6.10",
+    "xcodeappversion": null
+  }
+}
